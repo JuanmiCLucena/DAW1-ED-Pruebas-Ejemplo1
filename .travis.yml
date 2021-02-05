@@ -1,6 +1,5 @@
 language: java
 jdk:
-[![Build Status](https://travis-ci.org/JuanmiCLucena/DAW1-ED-Pruebas-Ejemplo1.svg?branch=master)](https://travis-ci.org/JuanmiCLucena/DAW1-ED-Pruebas-Ejemplo1)
 script:
 #  - ./gradlew build test jacocoTestReport
   - gradle test
